@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "幼藍",
+  "base_artist": "Keina Suda",
+  "createdAt": "2026-02-21T11:34:55.707857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幼藍",
+      "artist": "須田景凪",
+      "has_synced": true,
+      "path": "select/01_幼藍_須田景凪.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幼藍",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_幼藍_須田景凪.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "幼藍",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_02_幼藍_須田景凪.txt"
+    }
+  ]
+}
